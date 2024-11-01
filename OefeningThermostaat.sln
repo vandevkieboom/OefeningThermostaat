@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OefeningThermostaat", "OefeningThermostaat\OefeningThermostaat.csproj", "{70709772-C353-4506-BA00-055B9504E6D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OefeningThermostaat.UnitTests", "OefeningThermostaat.UnitTests\OefeningThermostaat.UnitTests.csproj", "{86B48EAE-DF74-4EE5-8D0A-20C2CBEDE4A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70709772-C353-4506-BA00-055B9504E6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70709772-C353-4506-BA00-055B9504E6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70709772-C353-4506-BA00-055B9504E6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70709772-C353-4506-BA00-055B9504E6D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B48EAE-DF74-4EE5-8D0A-20C2CBEDE4A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B48EAE-DF74-4EE5-8D0A-20C2CBEDE4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B48EAE-DF74-4EE5-8D0A-20C2CBEDE4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B48EAE-DF74-4EE5-8D0A-20C2CBEDE4A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {856D0763-8C3C-4867-8B95-0ACC3D2FDC6E}
+	EndGlobalSection
+EndGlobal
